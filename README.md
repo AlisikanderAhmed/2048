@@ -1,8 +1,7 @@
-# 2048 Game in Java
+# 2048 Game coded in Java
 
 ## [2048](https://github.com/AlisikanderAhmed/2048)
 ### A recreation of the 2048 game in Java. This was originally coded in Decemeber 2014 during first year of university.
-
 
 **-------------------------------------------------Demo--------------------------------------------------**
 
